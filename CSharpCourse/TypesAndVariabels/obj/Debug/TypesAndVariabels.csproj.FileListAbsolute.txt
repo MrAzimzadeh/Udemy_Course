@@ -1,0 +1,8 @@
+C:\Users\mehem\OneDrive\Documents\YoutubeCsharp_final\CSharpCourse\TypesAndVariabels\bin\Debug\TypesAndVariabels.exe.config
+C:\Users\mehem\OneDrive\Documents\YoutubeCsharp_final\CSharpCourse\TypesAndVariabels\bin\Debug\TypesAndVariabels.exe
+C:\Users\mehem\OneDrive\Documents\YoutubeCsharp_final\CSharpCourse\TypesAndVariabels\bin\Debug\TypesAndVariabels.pdb
+C:\Users\mehem\OneDrive\Documents\YoutubeCsharp_final\CSharpCourse\TypesAndVariabels\obj\Debug\TypesAndVariabels.csproj.AssemblyReference.cache
+C:\Users\mehem\OneDrive\Documents\YoutubeCsharp_final\CSharpCourse\TypesAndVariabels\obj\Debug\TypesAndVariabels.csproj.SuggestedBindingRedirects.cache
+C:\Users\mehem\OneDrive\Documents\YoutubeCsharp_final\CSharpCourse\TypesAndVariabels\obj\Debug\TypesAndVariabels.csproj.CoreCompileInputs.cache
+C:\Users\mehem\OneDrive\Documents\YoutubeCsharp_final\CSharpCourse\TypesAndVariabels\obj\Debug\TypesAndVariabels.exe
+C:\Users\mehem\OneDrive\Documents\YoutubeCsharp_final\CSharpCourse\TypesAndVariabels\obj\Debug\TypesAndVariabels.pdb

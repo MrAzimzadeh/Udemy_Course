@@ -1,0 +1,8 @@
+C:\Users\mehem\OneDrive\Documents\YoutubeCsharp_final\CSharpCourse\Loops\bin\Debug\Loops.exe.config
+C:\Users\mehem\OneDrive\Documents\YoutubeCsharp_final\CSharpCourse\Loops\bin\Debug\Loops.exe
+C:\Users\mehem\OneDrive\Documents\YoutubeCsharp_final\CSharpCourse\Loops\bin\Debug\Loops.pdb
+C:\Users\mehem\OneDrive\Documents\YoutubeCsharp_final\CSharpCourse\Loops\obj\Debug\Loops.csproj.AssemblyReference.cache
+C:\Users\mehem\OneDrive\Documents\YoutubeCsharp_final\CSharpCourse\Loops\obj\Debug\Loops.csproj.SuggestedBindingRedirects.cache
+C:\Users\mehem\OneDrive\Documents\YoutubeCsharp_final\CSharpCourse\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+C:\Users\mehem\OneDrive\Documents\YoutubeCsharp_final\CSharpCourse\Loops\obj\Debug\Loops.exe
+C:\Users\mehem\OneDrive\Documents\YoutubeCsharp_final\CSharpCourse\Loops\obj\Debug\Loops.pdb

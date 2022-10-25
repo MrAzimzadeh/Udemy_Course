@@ -1,0 +1,8 @@
+C:\Users\mehem\OneDrive\Documents\YoutubeCsharp_final\CSharpCourse\Conditionals\bin\Debug\Conditionals.exe.config
+C:\Users\mehem\OneDrive\Documents\YoutubeCsharp_final\CSharpCourse\Conditionals\bin\Debug\Conditionals.exe
+C:\Users\mehem\OneDrive\Documents\YoutubeCsharp_final\CSharpCourse\Conditionals\bin\Debug\Conditionals.pdb
+C:\Users\mehem\OneDrive\Documents\YoutubeCsharp_final\CSharpCourse\Conditionals\obj\Debug\Conditionals.csproj.AssemblyReference.cache
+C:\Users\mehem\OneDrive\Documents\YoutubeCsharp_final\CSharpCourse\Conditionals\obj\Debug\Conditionals.csproj.SuggestedBindingRedirects.cache
+C:\Users\mehem\OneDrive\Documents\YoutubeCsharp_final\CSharpCourse\Conditionals\obj\Debug\Conditionals.csproj.CoreCompileInputs.cache
+C:\Users\mehem\OneDrive\Documents\YoutubeCsharp_final\CSharpCourse\Conditionals\obj\Debug\Conditionals.exe
+C:\Users\mehem\OneDrive\Documents\YoutubeCsharp_final\CSharpCourse\Conditionals\obj\Debug\Conditionals.pdb

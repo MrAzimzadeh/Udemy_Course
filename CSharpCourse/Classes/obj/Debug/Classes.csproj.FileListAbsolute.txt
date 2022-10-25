@@ -1,0 +1,8 @@
+C:\Users\mehem\OneDrive\Documents\YoutubeCsharp_final\CSharpCourse\Classes\bin\Debug\Classes.exe.config
+C:\Users\mehem\OneDrive\Documents\YoutubeCsharp_final\CSharpCourse\Classes\bin\Debug\Classes.exe
+C:\Users\mehem\OneDrive\Documents\YoutubeCsharp_final\CSharpCourse\Classes\bin\Debug\Classes.pdb
+C:\Users\mehem\OneDrive\Documents\YoutubeCsharp_final\CSharpCourse\Classes\obj\Debug\Classes.csproj.AssemblyReference.cache
+C:\Users\mehem\OneDrive\Documents\YoutubeCsharp_final\CSharpCourse\Classes\obj\Debug\Classes.csproj.SuggestedBindingRedirects.cache
+C:\Users\mehem\OneDrive\Documents\YoutubeCsharp_final\CSharpCourse\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+C:\Users\mehem\OneDrive\Documents\YoutubeCsharp_final\CSharpCourse\Classes\obj\Debug\Classes.exe
+C:\Users\mehem\OneDrive\Documents\YoutubeCsharp_final\CSharpCourse\Classes\obj\Debug\Classes.pdb

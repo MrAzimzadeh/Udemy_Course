@@ -1,0 +1,8 @@
+C:\Users\mehem\OneDrive\Documents\YoutubeCsharp_final\CsharpYoutube\CsharpYoutube\bin\Debug\CsharpYoutube.exe.config
+C:\Users\mehem\OneDrive\Documents\YoutubeCsharp_final\CsharpYoutube\CsharpYoutube\bin\Debug\CsharpYoutube.exe
+C:\Users\mehem\OneDrive\Documents\YoutubeCsharp_final\CsharpYoutube\CsharpYoutube\bin\Debug\CsharpYoutube.pdb
+C:\Users\mehem\OneDrive\Documents\YoutubeCsharp_final\CsharpYoutube\CsharpYoutube\obj\Debug\CsharpYoutube.csproj.AssemblyReference.cache
+C:\Users\mehem\OneDrive\Documents\YoutubeCsharp_final\CsharpYoutube\CsharpYoutube\obj\Debug\CsharpYoutube.csproj.SuggestedBindingRedirects.cache
+C:\Users\mehem\OneDrive\Documents\YoutubeCsharp_final\CsharpYoutube\CsharpYoutube\obj\Debug\CsharpYoutube.csproj.CoreCompileInputs.cache
+C:\Users\mehem\OneDrive\Documents\YoutubeCsharp_final\CsharpYoutube\CsharpYoutube\obj\Debug\CsharpYoutube.exe
+C:\Users\mehem\OneDrive\Documents\YoutubeCsharp_final\CsharpYoutube\CsharpYoutube\obj\Debug\CsharpYoutube.pdb
