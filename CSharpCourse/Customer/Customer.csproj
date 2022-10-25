@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{CC9915F5-1E6A-459A-BCAC-A9B8735292C4}</ProjectGuid>
+    <ProjectGuid>{CD22AB74-3C6B-4487-83E5-84FEEC87415F}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Classes</RootNamespace>
-    <AssemblyName>Classes</AssemblyName>
+    <RootNamespace>Customer</RootNamespace>
+    <AssemblyName>Customer</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,9 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Customer.cs" />
-    <Compile Include="CustomerMeneger.cs" />
-    <Compile Include="ProdactMenegr.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

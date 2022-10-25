@@ -6,7 +6,18 @@ using System.Threading.Tasks;
 
 namespace Classes
 {
-    internal class CustomerMeneger
+
+    class CustomerMeneger
     {
+        public void Add()
+        {
+            Console.WriteLine(" customer Added");
+
+        }
+        public void Uptade()
+        {
+            Console.WriteLine(" Customer  Uptade ");
+        }
     }
+
 }

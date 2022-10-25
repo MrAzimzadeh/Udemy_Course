@@ -11,15 +11,34 @@ namespace Classes
         static void Main(string[] args)
         {
             CustomerMeneger customerMeneger = new CustomerMeneger();
-
             ProdactMenegr prodactMenegr = new ProdactMenegr();
 
-
+            
             customerMeneger.Add();
             customerMeneger.Uptade();
             Console.WriteLine("==================================");
             prodactMenegr.Add();
             prodactMenegr.Uptade();
+            //
+
+
+            //public int MyProperty { get; set; }
+
+            Customer customer = new Customer();
+            customer.City = " Ankara  ";
+            customer.Id =  1;
+            customer.FisrtName = "Mahammad";
+            Customer customer1 = new Customer
+            {
+                Id = 1,City = " Istanbul" , FisrtName = "Derin" , LastName  = "Azimzada"
+            };
+
+            Console.WriteLine(customer1.FisrtName);
+
+        
+            
+
+
 
 
 
@@ -30,28 +49,6 @@ namespace Classes
 
     }
 
-    class ProdactMenegr
-    {
-        public void Add()
-        {
-            Console.WriteLine(" proddavr Added");
 
-        }
-        public void Uptade()
-        {
-            Console.WriteLine(" prodact  Uptade ");
-        }
-    }
-    class CustomerMeneger
-    {
-        public void Add()
-        {
-            Console.WriteLine(" customer Added");
 
-        }
-        public void Uptade()
-        {
-            Console.WriteLine(" Customer  Uptade ");
-        }
-    }
 }

@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Classes
 {
-    c
+        class ProdactMenegr
+    {
         public void Add()
         {
             Console.WriteLine(" proddavr Added");

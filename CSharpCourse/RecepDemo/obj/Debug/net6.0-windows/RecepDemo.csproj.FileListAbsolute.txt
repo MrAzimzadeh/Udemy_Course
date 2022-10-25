@@ -1,0 +1,17 @@
+C:\Users\mehem\OneDrive\Documents\YoutubeCsharp_final\CSharpCourse\RecepDemo\bin\Debug\net6.0-windows\RecepDemo.exe
+C:\Users\mehem\OneDrive\Documents\YoutubeCsharp_final\CSharpCourse\RecepDemo\bin\Debug\net6.0-windows\RecepDemo.deps.json
+C:\Users\mehem\OneDrive\Documents\YoutubeCsharp_final\CSharpCourse\RecepDemo\bin\Debug\net6.0-windows\RecepDemo.runtimeconfig.json
+C:\Users\mehem\OneDrive\Documents\YoutubeCsharp_final\CSharpCourse\RecepDemo\bin\Debug\net6.0-windows\RecepDemo.dll
+C:\Users\mehem\OneDrive\Documents\YoutubeCsharp_final\CSharpCourse\RecepDemo\bin\Debug\net6.0-windows\RecepDemo.pdb
+C:\Users\mehem\OneDrive\Documents\YoutubeCsharp_final\CSharpCourse\RecepDemo\obj\Debug\net6.0-windows\RecepDemo.csproj.AssemblyReference.cache
+C:\Users\mehem\OneDrive\Documents\YoutubeCsharp_final\CSharpCourse\RecepDemo\obj\Debug\net6.0-windows\RecepDemo.Form1.resources
+C:\Users\mehem\OneDrive\Documents\YoutubeCsharp_final\CSharpCourse\RecepDemo\obj\Debug\net6.0-windows\RecepDemo.csproj.GenerateResource.cache
+C:\Users\mehem\OneDrive\Documents\YoutubeCsharp_final\CSharpCourse\RecepDemo\obj\Debug\net6.0-windows\RecepDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehem\OneDrive\Documents\YoutubeCsharp_final\CSharpCourse\RecepDemo\obj\Debug\net6.0-windows\RecepDemo.AssemblyInfoInputs.cache
+C:\Users\mehem\OneDrive\Documents\YoutubeCsharp_final\CSharpCourse\RecepDemo\obj\Debug\net6.0-windows\RecepDemo.AssemblyInfo.cs
+C:\Users\mehem\OneDrive\Documents\YoutubeCsharp_final\CSharpCourse\RecepDemo\obj\Debug\net6.0-windows\RecepDemo.csproj.CoreCompileInputs.cache
+C:\Users\mehem\OneDrive\Documents\YoutubeCsharp_final\CSharpCourse\RecepDemo\obj\Debug\net6.0-windows\RecepDemo.dll
+C:\Users\mehem\OneDrive\Documents\YoutubeCsharp_final\CSharpCourse\RecepDemo\obj\Debug\net6.0-windows\refint\RecepDemo.dll
+C:\Users\mehem\OneDrive\Documents\YoutubeCsharp_final\CSharpCourse\RecepDemo\obj\Debug\net6.0-windows\RecepDemo.pdb
+C:\Users\mehem\OneDrive\Documents\YoutubeCsharp_final\CSharpCourse\RecepDemo\obj\Debug\net6.0-windows\RecepDemo.genruntimeconfig.cache
+C:\Users\mehem\OneDrive\Documents\YoutubeCsharp_final\CSharpCourse\RecepDemo\obj\Debug\net6.0-windows\ref\RecepDemo.dll
