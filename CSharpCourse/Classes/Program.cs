@@ -10,10 +10,18 @@ namespace Classes
     {
         static void Main(string[] args)
         {
-            CustomerManager customerManager = new CustomerManager();
+            CustomerMeneger customerMeneger = new CustomerMeneger();
 
-            customerManager.Add();
-            customerManager.Uptade();
+            ProdactMenegr prodactMenegr = new ProdactMenegr();
+
+
+            customerMeneger.Add();
+            customerMeneger.Uptade();
+            Console.WriteLine("==================================");
+            prodactMenegr.Add();
+            prodactMenegr.Uptade();
+
+
 
 
 
@@ -22,7 +30,19 @@ namespace Classes
 
     }
 
-    class CustomerManager
+    class ProdactMenegr
+    {
+        public void Add()
+        {
+            Console.WriteLine(" proddavr Added");
+
+        }
+        public void Uptade()
+        {
+            Console.WriteLine(" prodact  Uptade ");
+        }
+    }
+    class CustomerMeneger
     {
         public void Add()
         {
